@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web development projects with beginners like myself and advanced developers as well.
 - 📫 You can reach me by checking out my repos and giving as many feedbacks as possible! and also by email(you can find it in my portfolio repo😉)
 - 😄 Pronouns: SHE/HER
-- ⚡ Fun fact: I maybe consider a career in modeling as well!
+- ⚡ Fun fact: I may consider a career in modeling as well!
 
 <!---
 lilianewa/lilianewa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
